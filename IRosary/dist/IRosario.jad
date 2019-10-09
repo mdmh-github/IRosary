@@ -1,0 +1,8 @@
+MIDlet-1: IRosary, , IRosary
+MIDlet-Jar-Size: 542619
+MIDlet-Jar-URL: IRosario.jar
+MIDlet-Name: IRosario
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
